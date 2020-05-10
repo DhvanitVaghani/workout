@@ -1,6 +1,7 @@
 # workout
 
 A new Flutter project.
+![workout](workout.gif)
 
 ## Getting Started
 
